@@ -1,7 +1,7 @@
 {
   "name": "eclectus-light",
   "displayName": "Eclectus Light",
-  "description": "The modern light theme",
+  "description": "A simple and clean light theme based on night-owl-vscode-theme.",
   "version": "0.0.1",
   "publisher": "nexryai",
   "repository": {
