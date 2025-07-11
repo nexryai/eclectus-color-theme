@@ -1,8 +1,13 @@
 {
   "name": "eclectus-light",
   "displayName": "Eclectus Light",
-  "description": "",
+  "description": "The modern light theme",
   "version": "0.0.1",
+  "publisher": "nexryai",
+  "repository": {
+    "url": "https://github.com/nexryai/eclectus-color-theme.git"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.102.0"
   },
