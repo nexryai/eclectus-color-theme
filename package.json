@@ -1,6 +1,6 @@
 {
-  "name": "nexryai-light",
-  "displayName": "nexryai-light",
+  "name": "eclectus-light",
+  "displayName": "Eclectus Light",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "nexryai",
+        "label": "Eclectus Color Theme",
         "uiTheme": "vs",
-        "path": "./themes/nexryai-color-theme.json"
+        "path": "./themes/eclectus-color-theme.json"
       }
     ]
   }
